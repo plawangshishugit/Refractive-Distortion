@@ -127,6 +127,7 @@ MIT License.
 
 ## Contact
 [Gmail](mailto:shishuplawang@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/plawang-shishu-222624207/)
 
 ---
 
