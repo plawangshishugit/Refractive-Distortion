@@ -88,8 +88,9 @@ Load a trained model and run Cell 8:
 generator.load_state_dict(torch.load("generator_epoch_29.pth"))  # Peak PSNR
 # Run Cell 8
 ```
-Outputs a plot with distorted, edge map, restored, and ground truth images.
-(output)[!sampleOutput.png]
+Example outputs plot with distorted, edge map, restored, and ground truth images.
+
+![Output](sampleOutput.png)
 
 ## Project Structure
 ```
