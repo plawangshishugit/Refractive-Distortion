@@ -124,7 +124,7 @@ MIT License.
 - Deformable Convolutions: [Dai et al., 2017](https://arxiv.org/abs/1703.06211)
 
 ## Contact
-[Gmail:](mailto:shishuplawang@gmail.com)
+[Gmail](mailto:shishuplawang@gmail.com)
 
 ---
 
