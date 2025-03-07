@@ -145,5 +145,5 @@ MIT License.
    git remote add origin https://github.com/yourusername/underwater-gan.git
    git push -u origin main
    ```
-3. **Optional**: Upload `generator_epoch_29.pth` (PSNR peak) or `generator_epoch_37.pth` (SSIM peak) for others to use.
+3. I have Uploaded `generator_epoch_29.pth` (PSNR peak) and `generator_epoch_37.pth` (SSIM peak) for others to use.
 
