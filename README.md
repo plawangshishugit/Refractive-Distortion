@@ -26,7 +26,7 @@ This repository contains the implementation of an enhanced Generative Adversaria
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/underwater-gan.git
+git clone https://github.com/plawangshishugit/underwater-gan.git
 cd underwater-gan
 ```
 
@@ -130,23 +130,3 @@ MIT License.
 [LinkedIn](https://www.linkedin.com/in/plawang-shishu-222624207/)
 
 ---
-
-### Customization Notes
-- **Repository URL**: Replace `yourusername/underwater-gan` with your GitHub URL.
-- **Email**: Update with your contact info.
-- **Paths**: Adjust EUVP path if different.
-- **Results**: Updated with your latest data (Epoch 38), highlighting peaks (PSNR 27.07, SSIM 0.8222).
-
-### Adding to GitHub
-1. **Create `README.md`**:
-   - Save this as `README.md` in your repo root.
-2. **Push to GitHub**:
-   ```bash
-   git init
-   git add README.md underwater_gan.ipynb
-   git commit -m "Add README with training results up to Epoch 38"
-   git remote add origin https://github.com/yourusername/underwater-gan.git
-   git push -u origin main
-   ```
-3. I have Uploaded `generator_epoch_29.pth` (PSNR peak) and `generator_epoch_37.pth` (SSIM peak) for others to use.
-
