@@ -13,7 +13,6 @@ This repository contains the implementation of an enhanced Generative Adversaria
 - **Quantitative**:
   - Peak PSNR: 27.07 dB (Epoch 29)
   - Peak SSIM: 0.8222 (Epoch 37)
-  - After 38 epochs: PSNR: 22.92 dB, SSIM: 0.7942
 - **Qualitative**: Enhanced detail and color restoration (see visualization section).
 
 ## Prerequisites
